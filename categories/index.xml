@@ -5,6 +5,6 @@
     <link>http://example.org/categories/</link>
     <description>Recent content in Categories on Meine neue Webseite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

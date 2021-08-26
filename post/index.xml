@@ -5,14 +5,14 @@
     <link>http://example.org/post/</link>
     <description>Recent content in Posts on Meine neue Webseite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>de</language>
     <lastBuildDate>Wed, 25 Aug 2021 09:30:09 +0200</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mein erster Post</title>
-      <link>http://example.org/post/2021/08/25_erster_post/</link>
+      <link>http://example.org/2021/08/mein-erster-post/</link>
       <pubDate>Wed, 25 Aug 2021 09:30:09 +0200</pubDate>
       
-      <guid>http://example.org/post/2021/08/25_erster_post/</guid>
+      <guid>http://example.org/2021/08/mein-erster-post/</guid>
       <description>Überschrift1 Überschrift 2 fett fett kursiv kursiv
 Linktext
  Zitat
